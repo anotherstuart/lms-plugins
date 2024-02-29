@@ -5,7 +5,7 @@
  </details>
  <plugins>
    
-    <plugin maxTarget="*" version="2.0.0" name="Deezer" minTarget="8.3">
+    <plugin maxTarget="*" version="2.0.0" name="DeezerL" minTarget="8.3">
       <title lang="EN">Deezer local</title>
       <sha>e8f884f5bbe59424b414f47c977a9c632b0253fb</sha>
       <desc lang="EN">Deezer for local LMS use</desc>
