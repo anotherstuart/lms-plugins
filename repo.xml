@@ -4,13 +4,17 @@
   <title lang="EN">Craig's LMS Plugins</title>
  </details>
  <plugins>
-  <plugin name="Deezertest" version="2.0.0" minTarget="7.9.0" maxTarget="*">
-   <title lang="EN">Deezer Test</title>
-   <desc lang="EN">Use Deezer</desc>
-   <url>https://github.com/philippe44/lms-deezer/releases/download/2.0.0/Deezer.zip</url>
-  
-   <creator>philippe44</creator>
-  </plugin>
+   
+    <plugin maxTarget="*" version="2.0.0" name="Deezer" minTarget="8.3">
+      <title lang="EN">Deezer local</title>
+      <sha>e8f884f5bbe59424b414f47c977a9c632b0253fb</sha>
+      <desc lang="EN">Deezer for local LMS use</desc>
+      <creator>philippe_44, Michael Herger</creator>
+      <category>musicservices</category>
+      <url>https://github.com/philippe44/lms-deezer/releases/download/2.0.0/Deezer.zip</url>
+      <link>https://github.com/philippe_44/lms-deezer</link>
+    </plugin>
+
  </plugins>
 </extensions>
 
