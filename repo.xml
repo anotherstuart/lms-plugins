@@ -11,7 +11,7 @@
       <desc lang="EN">Deezer for local LMS use</desc>
       <creator>philippe_44, Michael Herger</creator>
       <category>musicservices</category>
-      <url>https://github.com/philippe44/lms-deezer/releases/download/2.0.0/Deezer.zip</url>
+      <url>https://raw.githubusercontent.com/anotherstuart/lms-plugins/main/Deezer.zip</url>
       <link>https://github.com/philippe_44/lms-deezer</link>
     </plugin>
 
